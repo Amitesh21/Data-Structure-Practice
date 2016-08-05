@@ -1,6 +1,6 @@
 public class HeapSort{
 
-	static int[] arr = {-1, 5, 2};
+	static int[] arr = {1, 23, 12, 9, 30, 2, 50};
 	static int[] sorted = new int[arr.length];	
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+// not completed yet
+
 public class MergeSort{
 
 	static int[] arr = {5,2,12,7,9,13};

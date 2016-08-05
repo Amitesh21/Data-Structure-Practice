@@ -27,7 +27,7 @@ public class  ReverseString{
 		 }
 
 		 for(String s : splitStr){
-		 	System.out.print(s.toString()+" 1");
+		 	System.out.print(s.toString()+" ");
 		 }
 	}
 
