@@ -1,3 +1,5 @@
+// Given a string, compute recursively (no loops) the number of times lowercase "hi" appears in the string.
+
 public class CountHiString{
 
 	public static void main(String[] args) {

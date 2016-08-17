@@ -1,3 +1,6 @@
+// Given a non-negative int n, return the sum of its digits recursively (no loops).
+// sumDigits(126) → 9
+
 public class SumOfDigits{
 	
 	public static void main(String[] args) {
